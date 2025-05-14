@@ -15,10 +15,6 @@
 
 ---
 
-
-
----
-
 ### 💻 Tech Stack & Skills
 
 #### 🧠 Languages  
